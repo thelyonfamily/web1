@@ -17,7 +17,7 @@ body{
  -webkit-column-count:2;
  -webkit-column-break-inside:avoid;
  column-width: 0;
-  color:#FFFF00;
+  color:#80ff80;
   line-height: 60px;
   -webkit-row-count:3;
 
@@ -25,12 +25,13 @@ body{
 
 ul{list-style: none;
 list-style-position: none;
-text-shadow: 1px 1px 4px white;}
+text-shadow: 1px 1px 4px white;
+color: #80ff80;}
 img{border: 10px solid #D0D0D0}
 video{border: 10px solid #D0D0D0}
 h2{color: #F0F0F0;
 text-shadow: 4px 4px 7px #867A91;}
-a {color:white;
+a {color:#80ff80;
 text-decoration: none;
 /*float: left;*/
 }
@@ -56,7 +57,7 @@ title{
   width: 100%;
   background-color: red;
   height: 70px;
-  color: white;
+  color: #80ff80;
   text-align: center;
 }
 
@@ -75,6 +76,7 @@ title{
   top: 0px;
   overflow: hidden;
   text-decoration: underline;
+  color: #80ff80;
 }
 .headercontent ul li:hover {
   background-color: grey;
@@ -83,11 +85,13 @@ title{
 head{
   margin: 0;
   text-align: center;
+  color: #80ff80;
 }
 
 .name{
   font-size: 70px;
 }
+
 /*.nav- .logo{
   float: left;
   height: 40px;
