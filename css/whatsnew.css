@@ -1,7 +1,8 @@
 body{
- background: -webkit-linear-gradient(#F1FBA7, #E89BB9);
+ background:-webkit-linear-gradient(#ff4d4d,#1b324b);
   text-align: center;
   color: #222222;
+  border: 30px solid #66ff66;
 }
 h3 {
   font-size: 30px;

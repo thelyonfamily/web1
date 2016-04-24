@@ -2,6 +2,8 @@ body{
   text-align: center;
   background: -webkit-linear-gradient(#ffff80,#008ae6);
   font-size: 50px;
+  border: 30px double grey;
+  -webkit-columns-count:2;
 
 }
 

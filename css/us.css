@@ -1,7 +1,12 @@
 body{
-background-color: salmon;
+background:-webkit-linear-gradient(salmon, teal);
 text-align: center;
 font-size: 50px;
 -webkit-column-count:1;
-color: blueviolet;
+color: #193366;
+}
+
+ul{
+  list-style-type: disc;
+  list-style-position: inside;
 }
