@@ -1,0 +1,20 @@
+body{
+ background: -webkit-linear-gradient(#F1FBA7, #E89BB9);
+  text-align: center;
+  color: #222222;
+}
+h3 {
+  font-size: 30px;
+}
+
+h2{
+  font-size: 35px
+}
+
+h1{
+  font-size: 45px;
+}
+
+p{
+  font-size: 25px;
+}
