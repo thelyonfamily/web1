@@ -7,7 +7,7 @@ p {text-align: center;
 }
 
 body{
- background: -webkit-linear-gradient(#222222, #181818);
+ background: -webkit-linear-gradient(#FFC95E, #F55A7E,#875DD8);
 /* background-image: url("file:///Users/ray/Desktop/Programming/web1/pics/IMG_0816.JPG");*/
   font-size: 40px;
   text-align: center;
@@ -17,7 +17,7 @@ body{
  -webkit-column-count:2;
  -webkit-column-break-inside:avoid;
  column-width: 0;
-  color:#80ff80;
+  color:#2D3232;
   line-height: 60px;
   -webkit-row-count:3;
 
@@ -26,12 +26,12 @@ body{
 ul{list-style: none;
 list-style-position: none;
 text-shadow: 1px 1px 4px white;
-color: #80ff80;}
+color: #2D3232;}
 img{border: 10px solid #D0D0D0}
 video{border: 10px solid #D0D0D0}
 h2{color: #F0F0F0;
 text-shadow: 4px 4px 7px #867A91;}
-a {color:#80ff80;
+a {color:#2D3232;
 text-decoration: none;
 /*float: left;*/
 }
