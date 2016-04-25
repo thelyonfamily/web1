@@ -1,9 +1,9 @@
 body{
-background:-webkit-linear-gradient(salmon, teal);
+background:-webkit-linear-gradient(#9EFF75,#FF758D, #B781FF);
 text-align: center;
-font-size: 50px;
+font-size: 40px;
 -webkit-column-count:1;
-color: #193366;
+color: #black;
 }
 
 ul{
