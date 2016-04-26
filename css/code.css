@@ -1,6 +1,6 @@
 body{
   text-align: center;
-  background: -webkit-linear-gradient(#ffff80,#008ae6);
+  background: -webkit-linear-gradient(#406BCD,#7208FF);
   font-size: 50px;
   border: 30px double grey;
   -webkit-columns-count:2;
@@ -8,6 +8,6 @@ body{
 }
 
 ul{
-  list-style-type: georgian;
+  list-style-type: circle;
   list-style-position: inside;
 }
