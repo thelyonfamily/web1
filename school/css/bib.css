@@ -1,0 +1,29 @@
+body{
+background: -webkit-linear-gradient(#908F87,black);
+background-repeat: no-repeat;
+background-size: 100%;
+text-align: center;
+height: 1100px;
+width: 100%;
+color: yellow;
+  text-shadow: 2px 2px 8px white;
+}
+
+h1{
+  font-size: 50px;
+  color: yellow;
+    text-shadow: 1px 1px 4px white;
+
+}
+ul{
+  font-size: 35px;
+list-style-type: disc;
+list-style-position: inside;
+line-height: 70px;
+}
+
+a{
+  color: yellow;
+  text-shadow: 2px 2px 8px white;
+  width: 80%;
+}
