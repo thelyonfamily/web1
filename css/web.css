@@ -38,13 +38,6 @@ text-decoration: none;
 p{text-shadow: 1px 1px 4px white;
 -webkit-column-break-inside:avoid;}
 
-margin{
-  -webkit-column-count:1;
-  width: 100%;
-  margin-top: 1px;
-
-}
-
 
 
 #side1 {-webkit-column-break-inside:avoid;}
