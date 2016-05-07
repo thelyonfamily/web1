@@ -16,7 +16,6 @@ body{
   margin: 20px solid green;
  -webkit-column-count:2;
  -webkit-column-break-inside:avoid;
- column-width: 0;
   color:#2D3232;
   line-height: 60px;
   -webkit-row-count:3;
