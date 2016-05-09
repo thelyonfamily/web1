@@ -1,0 +1,23 @@
+body{
+text-align: center;
+background: -webkit-linear-gradient(#FFC95E, #F55A7E,#875DD8);
+}
+iframe{
+  align-items: center;
+  border: 15px solid grey;
+}
+h1{
+  font-size: 60px;
+}
+li{
+  font-size: 40px
+
+}
+ul{
+  list-style: circle;
+  list-style-position: inside;
+}
+
+a{
+  color:black;
+}
