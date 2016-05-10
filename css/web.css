@@ -2,7 +2,8 @@ h1{color: #F0F0F0;
 text-align: center;
 font-size: 60px;
 text-transform: capitalize;
-text-shadow: 4px 4px 7px #867A91;}
+text-shadow: 4px 4px 7px #867A91;
+height: 80%;}
 p {text-align: center;
 }
 
@@ -75,13 +76,7 @@ title{
 }
 
 head{
-  margin: 0;
-  text-align: center;
-  color: #80ff80;
-}
 
-.name{
-  font-size: 70px;
 }
 
 /*.nav- .logo{
