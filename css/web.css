@@ -1,4 +1,4 @@
-h1{color: #F0F0F0;
+h1{color: white;
 text-align: center;
 font-size: 60px;
 text-transform: capitalize;
@@ -8,7 +8,7 @@ p {text-align: center;
 }
 
 body{
- background: -webkit-linear-gradient(#FFC95E, #F55A7E,#875DD8);
+ background-color: #FF4747;
 /* background-image: url("file:///Users/ray/Desktop/Programming/web1/pics/IMG_0816.JPG");*/
   font-size: 40px;
   text-align: center;
@@ -17,7 +17,7 @@ body{
   margin: 20px solid green;
  -webkit-column-count:2;
  -webkit-column-break-inside:avoid;
-  color:#2D3232;
+  color:white;
   line-height: 60px;
   -webkit-row-count:3;
 
@@ -26,12 +26,12 @@ body{
 ul{list-style: none;
 list-style-position: none;
 text-shadow: 1px 1px 4px white;
-color: #2D3232;}
+color: white;}
 img{border: 10px solid #D0D0D0}
 video{border: 10px solid #D0D0D0}
-h2{color: #F0F0F0;
+h2{color: white;
 text-shadow: 4px 4px 7px #867A91;}
-a {color:#2D3232;
+a {color:white;
 text-decoration: none;
 /*float: left;*/
 }
@@ -50,7 +50,7 @@ title{
   width: 100%;
   background-color: red;
   height: 70px;
-  color: #80ff80;
+  color: #FF4747;
   text-align: center;
 }
 
@@ -61,7 +61,7 @@ title{
   height: 50px;
   margin: 0 auto;
   background: salmon;
-  color: red;
+  color: #FF4747;
   font-style: italic;
   font-size: 60px;
   padding: 15px 30px;
@@ -69,7 +69,7 @@ title{
   top: 0px;
   overflow: hidden;
   text-decoration: underline;
-  color: #80ff80;
+  color: #FF4747;
 }
 .headercontent ul li:hover {
   background-color: grey;
